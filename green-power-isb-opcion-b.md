@@ -2,7 +2,7 @@
 
 ## OPCIÓN B — Célula AI Green Power — Fase 1: Asistente Conversacional Interno + Pre-armado del Reporte OPENLAND con Humano-en-el-Loop
 
-> **Nota del autor (Juanda):** Esta es la **Opción B** de mi entrega de la Estación 1. Aborda un dolor distinto al de la Opción A (causación de facturas): el **armado mensual del reporte financiero a OPENLAND**, único inversionista de Green Power, que hoy consume aproximadamente **80 horas-gerente al mes** entre el Gerente de Operaciones y el Gerente Financiero. La entrega es el día 10 de cada mes — deadline duro contra una audiencia de altísima confianza.
+> **Nota del autor (Esteban):** Esta es la **Opción B** de mi entrega de la Estación 1. Aborda un dolor distinto al de la Opción A (causación de facturas): el **armado mensual del reporte financiero a OPENLAND**, único inversionista de Green Power, que hoy consume aproximadamente **80 horas-gerente al mes** entre el Gerente de Operaciones y el Gerente Financiero. La entrega es el día 10 de cada mes — deadline duro contra una audiencia de altísima confianza.
 >
 > **Re-encuadre tras Deep Research crítico:** El alcance original ("Cerebro Financiero Conversacional" que genera el reporte a inversionistas) tenía dos riesgos letales documentados en la literatura: (1) **alucinación numérica del RAG** (FinanceBench reporta 76% de éxito = 1 de cada 4 cifras incorrecta), (2) **transferencia de responsabilidad legal del contador a un sistema sin matrícula profesional**. El MVP fue rediseñado para mantener la firma humana, separar arquitectura LLM de cifras numéricas (text-to-SQL), y excluir explícitamente fuentes con alto riesgo regulatorio (PILA, nóminas) del primer ciclo.
 >
