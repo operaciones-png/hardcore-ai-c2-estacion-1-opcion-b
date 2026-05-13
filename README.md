@@ -1,6 +1,6 @@
 # Hardcore AI Cohorte 2 — Estación 1 — Opción B
 
-**Autor:** Juanda — Gerente de Operaciones, Green Power S.A.S.
+**Autor:**   Esteban — Gerente de Operaciones, Green Power S.A.S.
 **Empresa:** Green Power S.A.S. (E&P hidrocarburos, Llanos Orientales, Colombia, ~90 empleados, opera bloque con activos Kimbo y Caliche)
 **Inversionista único:** OPENLAND
 **Plantilla utilizada:** Internal Solution Brief (caso de uso corporativo)
