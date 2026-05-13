@@ -8,7 +8,7 @@
 
 ## 1. Contexto en una frase (30 seg)
 
-> "Soy Juanda, ingeniero mecánico, Gerente de Operaciones de Green Power. Operamos un bloque en los Llanos Orientales con dos activos: Kimbo y Caliche. Tenemos un único inversionista: OPENLAND. Cada mes, el día 10, le entregamos un reporte financiero. Esa es la relación más crítica de nuestra empresa."
+> "Soy Esteban, ingeniero mecánico, Gerente de Operaciones de Green Power. Operamos un bloque en los Llanos Orientales con dos activos: Kimbo y Caliche. Tenemos un único inversionista: OPENLAND. Cada mes, el día 10, le entregamos un reporte financiero. Esa es la relación más crítica de nuestra empresa."
 
 ---
 
